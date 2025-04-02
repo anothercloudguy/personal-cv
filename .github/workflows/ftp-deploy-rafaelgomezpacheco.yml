@@ -3,7 +3,7 @@ name: Deploy via FTP
 on:
   push:
     branches:
-      - name
+      - rafael_gomez
 
 jobs:
   ftp-deploy:
